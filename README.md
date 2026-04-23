@@ -23,4 +23,5 @@ Jest to projekt, w którym przeanalizowałem dane dużego sklepu internetowego. 
 ---
 
 **Źródło danych:** Zbiór danych pochodzi z serwisu [Kaggle.com](https://www.kaggle.com/).
+
 **Kod:** Wszystkie zapytania z moimi komentarzami znajdziesz w pliku `ProjektAnalizaSuperstore.sql`.

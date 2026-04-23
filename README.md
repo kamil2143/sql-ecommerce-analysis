@@ -16,8 +16,8 @@ Jest to projekt, w którym przeanalizowałem dane dużego sklepu internetowego. 
 
 ### **Kilka wniosków z danych:**
 
-* **Nowy Jork jest liderem:** Mimo mniejszej liczby zamówień niż w Kalifornii, średnia wartość koszyka jest tam wyższa, zaś zysk bardzo zbliżony.
-* **Rabaty:** Dane pokazują, że w niektórych kategoriach (np. meble) duże zniżki sprawiają, że sprzedaż rośnie, ale zysk znika.
+* **Nowy Jork jest liderem:** Mimo mniejszej liczby zamówień niż w Kalifornii, średnia wartość koszyka jest tam wyższa, natomiast zysk bardzo zbliżony.
+* **Rabaty:** Dane pokazują, że w niektórych kategoriach (np. meble) duże zniżki sprawiają, że sprzedaż rośnie, ale zysk znika(Tu warto spojrzeć szerzej, może być to tylko jeden z czynników).
 * **Sezonowość:** Ostatni kwartał roku (Q4) to zawsze największy ruch, ale marża jest tam niższa przez promocje.
 
 ---
